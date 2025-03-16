@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, intial-scale=1.0">
+        <title> E-Portfolio (4th Qtr)</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        
+        <header>
+            <nav class="navbar section-content">
+                <a href="#" class="nav-logo">
+                    <h2 class="logo-text"> ₊✩ E-Portfolio : 4th Quarter ₊✩</h2>
+                </a>
+                <ul class="nav-menu">
+                    <button id="menu-close-button" class="fas fa-times"></button>
+                    <li class="nav-item">
+                        <a href="#intro" class="nav-link"> Haii !!</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#aboutme" class="nav-link"> About me ✧ </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#activities" class="nav-link"> School Activities/Events ୨୧˚</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#lessons" class="nav-link"> Lessons ˖𖦹⋆</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#reflection" class="nav-link"> Reflection ✿</a>
+                    </li>
+                </ul>
+                
+                <button id="menu-open-button" class="fas fa-bars"></button>
+            </nav>
+        </header>
+        
+        <main>
+            <section class="hero-section">
+                <div class="section-content">
+                    <div class="hero-details">
+                        <div id="intro">
+                        <h2 class="title">Welcome!</h2>
+                        </div>
+                        <h3 class="subtitle"> This is Machea's E-Portfolio for this 4th Quarter! </h3>
+                        <p class="description"> "The beautiful thing about learning is that no one can take it away from you." - B.B. King </p>
+                        
+                        <div class="buttons">
+                            <a href="https://macheaangele.github.io/" class="button first-quarter"> 1st Qtr E-Port </a>
+                            <a href="https://macheaangele.github.io/EPORT2/" class="button second-quarter"> 2nd Qtr E-Port</a>
+                        </div>
+                    </div>
+                    <div class="hero-image-wrapper">
+                        <img src="moon-dif-512.png" alt-"moon" class="hero-image">
+                    </div>
+                </div>
+            </section>
+            <section class="about-section">
+                <div class="section-content">
+                    <div class="about-image-wrapper">
+                        <img src="IMG_0354.jpg" alt="about" class="about-image">
+                    </div>
+                    <div class="about-details">
+                         <div id="aboutme" align="right">
+                        <h2 class="section-title"> About Me</h2>
+                        </div>
+                        <div align="right">
+                        <p class="text"> Hellu !! I'm Machea Angele D. Lumbao from 9 - Fairness. I am currently 15 years old. I was born on February 25, 2010. My favorite colors would be neutral colors, specifically white and black. I love arts, photography, music, reading books, and watching movies (plus crime documentaries hehe). I have a lot of favorite music artists !! However, if I were to pick my top 5, they would be Enhypen, Cup of Joe, NIKI, Wave to Earth, and One Direction. Thanku for having the time to read this !! ^^  </p>
+                    </div>
+                    </div>
+                </div>
+            </section>
+            <section class="menu-section">
+                 <div id="activities">
+                <h2 class="section-title"> School Activites/Events</h2>
+                </div>
+                <div class="section-content">
+                    <ul class="menu-list">
+                        <li class="menu-item">
+                            <img src="IMG_1052.JPG" alt="VPop" class="menu-image">
+                            <h3 class="name">VPop Performance</h3>
+                            <p class="text"> This was taken before our VPop performance for Values Month. This picture holds tons of memories, good and bad. Despite all the challenges that we have been through, I am proud of my section as we were able to come up with a dance performance on our own with our own ideas as well.</p>
+                        </li>
+                        <li class="menu-item">
+                            <img src="IMG_0186.jpg" alt="Science" class="menu-image">
+                            <h3 class="name">Science Roleplay</h3>
+                            <p class="text"> This PT was so much fun !! We were tasked to make a simulation about Geothermal Energy and let's just say it was full of laughter. We all cheered when Ms. gave a 100 to all groups. I'm really proud and grateful that our hardwork payed off. </p>
+                        </li>
+                        <li class="menu-item">
+                            <img src="IMG_1051.jpg" alt="Festival Dance" class="menu-image">
+                            <h3 class="name">Festival Dance</h3>
+                            <p class="text"> This picture was when we had our Festival Dance PT for MAPEH. We needed to create our own props and dance steps. For our group, we chose the Panagbenga Festival, which is why we had flower-like fans as our props. This PT was a bit crammed I cannot deny that, but we were still able to give our best and perform smoothly. </p>
+                        </li>
+                        <li class="menu-item">
+                            <img src="IMG_0317.jpg" alt="R3" class="menu-image">
+                            <h3 class="name">Research Defense</h3>
+                            <p class="text"> AAAAAA This was when we had our Research Defense! I remember stressing over this with my Research team hehe. Though we may seem chill and smiley in the picture, we felt very nervous for each other and for ourselves in the inside. I love you, my research team !! </p>
+                        </li>
+                        <li class="menu-item">
+                            <img src="IMG_0936.jpg" alt="English Musical" class="menu-image">
+                            <h3 class="name">English Musical Play</h3>
+                            <p class="text"> Very very nerve-wracking !! Our musical is about the hidden love between two girls, where one is afraid of being a failure and not being accepted. I took part in this play as the "Props head." Again, another activity being crammed, but we can do this !! I have learned so much from this PT and I am very grateful that this happened, regardless of all the ups and downs we have experienced. </p>
+                        </li>
+                        <li class="menu-item">
+                            <img src="IMG_0932.jpg" alt="Poster" class="menu-image">
+                            <h3 class="name">MAPEH "Bullying" Poster</h3>
+                            <p class="text"> Even though this PT is not a major thing, I still wanted to include it, because I really had a fun time making it with my group. The process of making this poster, brought me closer to my classmates and allowed me to form stronger friendships. The amount of crashouts were worth it! HAHAHA </p>
+                        </li>
+                        <li class="menu-item">
+                            <img src="IMG_0992.jpg" alt="NoliMe" class="menu-image">
+                            <h3 class="name">Filipino Monologo</h3>
+                            <p class="text"> For this PT, I had to be Donya Victorina in the story "Noli Me Tangere" by Jose Rizal. It was actually my first time doing something like this, which is why it was very awkward at first, but I was able to finish it! Thank you, Donya Victorina for being a character that is the complete opposite of me which led me to having a hard time acting HAHA</p>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+            <section class="testimonials-section">
+                 <div id="lessons">
+                <h2 class="section-title">Lessons</h2>
+                </div>
+                <div class="section-content">
+                    <div class="slider-container">
+                        <div class="slider-wrapper">
+                            <ul class ="testimonials-list">
+                                <li class="testimonial">
+                                    <img src="popup.png" alt="lesson1" class="user-image">
+                                    <h3 class="name"> Lesson 1</h3>
+                                    <i class="feedback"> Lesson 1: About event triggers, such as onclick, onabort, onblur, etc. These are used initiate actions for more interactivity. Additionally, lesson 1 is also about popup boxes. There are three kinds: alert boxes, user-input prompt box, and confirm box. </i>
+                                </li>
+                                <li class="testimonial">
+                                    <img src="conditional.png" alt="lesson2" class="user-image">
+                                    <h3 class="name"> Lesson 2</h3>
+                                    <i class="feedback"> Lesson 2: About conditional statements, they are used to perform different actions for different decisions. We have the "If Statement" which is used to check or verify a condition and execeute it if it's true. The "Nested If Statement" which is an "If statement" with another "If statement." The "If-Else Statement" which is just an "Else part" added to an "If Statement." The "If Else If Statement" which is used to evaluate multiple conditions. Lastly, the "Switch statement"used when a condition may have multiple results and a different set of operation is done based on each result or input.</i>
+                                </li>
+                                <li class="testimonial">
+                                    <img src="functions.png" alt="lesson3" class="user-image">
+                                    <h3 class="name"> Lesson 3</h3>
+                                    <i class="feedback"> Lesson 3: About functions, which is a self-contained piece of code that performs a particular "function" when it is called. They are defined by the keyword "function" followed by its name and an open and close parenthesis. "functionname" is the name of the function. Additionally, the "Return statement" is used to specify a result output, such as computations. </i>
+                                </li>
+                                <li class="testimonial">
+                                    <img src="loops.png" alt="lesson4" class="user-image">
+                                    <h3 class="name"> Lesson 4</h3>
+                                    <i class="feedback"> Lesson 4: About loops, which is used to have a block of code repeat and repeat over and over again until a specific condition is satisfied. We have the "For loop" which loops through a block of code within a specified number of times, the "While loop" whoch loops until a condition is satisifed, the "Do-while loop which will execute the set of codes at least once, and lastly, the "For-in loop" which loops through the elements of an array. Additionally, the break and continue statements are used to stop/break the loop once a condition is true and stop the loop for a set of value then contine to loop with the nest value, respectively.  </i>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section class="contact-section">
+                 <div id="reflection">
+                <h2 class="section-title"> Reflection for 4th Quarter</h2>
+                </div>
+                <div class="section-content">
+                    <ul class="contact-info-list">
+                        <li class="contact-info">
+                            <i class="text">
+                                <p> For this quarter, it wasn't easy. As a person who is not good at coding in general, I did quite have a difficult time understanding the lesson. However, practicing codes in the ICT room was fun and helped me differentiate the codes based on their appearance and purpose. Coding really isn't for the weak, that I can say hehe. But through the group studies and panics I've had, I am sure that this quarter is full of memories. Now that it is the final quarter, I want to say thank you to our wonderful ICT teacher, Ms. Uminga for making the discussions more fun! Coding isn't easy, until now I still do not find it easy, but it was surely enjoyable experiencing coding with the whole class. I will miss you, Ms. Uminga, the whole class will too!  </p>
+                            </i>
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </main>
+        <script src="script.js"></script>
+    </body>  
+</html>
